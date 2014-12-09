@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game GSCVersion="0.10.0" PGFVersion="0.19" title="New Game">
+  <tags />
+  <resolutionIndependence>0</resolutionIndependence>
+  <instructions>Add game instructions here.</instructions>
+  <resolution>0</resolution>
+  <longDescription>A simple game.</longDescription>
+  <prototypes />
+  <plugins />
+  <scenes>
+    <scene id="id805500" />
+    <scene id="id807051" />
+    <scene id="id243285" />
+    <scene id="id154246" />
+    <scene id="id292556" />
+    <scene id="id166253" />
+    <scene id="id453146" />
+  </scenes>
+  <attributes>
+    <text id="name">default name</text>
+    <real id="time">0</real>
+    <size id="displaySize">
+      <real id="width">480</real>
+      <real id="height">320</real>
+    </size>
+    <text id="actorTags" />
+  </attributes>
+</game>

@@ -2,67 +2,7 @@
 <scene PGFVersion="0.19" GSCVersion="0.10.0" id="id453146">
   <layers>
     <layer id="id452682">
-      <actors>
-        <actor id="id373886" prototype="id946398">
-          <attributes>
-            <point id="position">
-              <real id="x">240.5</real>
-              <real id="y">242</real>
-            </point>
-            <size id="size">
-              <real id="width">120</real>
-              <real id="height">72</real>
-            </size>
-            <angle id="rotation">0</angle>
-            <color id="color">
-              <real id="alpha">0</real>
-            </color>
-            <boolean id="preloadArt">false</boolean>
-            <text id="tags" />
-          </attributes>
-          <aspects>
-            <graphics>
-              <attributes>
-                <integer id="tileWidth" name="tileWidth">0</integer>
-                <integer id="tileHeight" name="tileHeight">0</integer>
-              </attributes>
-            </graphics>
-            <motion />
-            <physics>
-              <attributes />
-            </physics>
-          </aspects>
-        </actor>
-        <actor id="id567732" prototype="id376897">
-          <attributes>
-            <point id="position">
-              <real id="x">246</real>
-              <real id="y">87</real>
-            </point>
-            <size id="size">
-              <real id="width">311</real>
-              <real id="height">120</real>
-            </size>
-            <angle id="rotation">0</angle>
-            <color id="color">
-              <real id="alpha">0</real>
-            </color>
-            <text id="tags" />
-          </attributes>
-          <aspects>
-            <graphics>
-              <attributes>
-                <integer id="tileWidth" name="tileWidth">0</integer>
-                <integer id="tileHeight" name="tileHeight">0</integer>
-              </attributes>
-            </graphics>
-            <motion />
-            <physics>
-              <attributes />
-            </physics>
-          </aspects>
-        </actor>
-      </actors>
+      <actors />
       <attributes>
         <text id="name">Background</text>
         <boolean id="scrollable">true</boolean>
